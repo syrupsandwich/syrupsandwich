@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @syrupsandwich
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning the three fundamental languages: HTML, CSS, Javascript.
+- 🌱 I’m currently learning web development.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
