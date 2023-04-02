@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @syrupsandwich
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning web development from [The Odin Project](https://www.theodinproject.com).
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
